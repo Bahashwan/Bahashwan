@@ -7,11 +7,9 @@
 Full-stack developer building production-grade web apps with a focus on **Node.js**, **React**, and **TypeScript**.  
 I design systems end-to-end — from database schema and REST APIs to polished React UIs.
 
-- 🔭 Currently working on a **Wildberries seller analytics platform** (sales tracking, unit economics, digitization)
-- 🌱 Deepening knowledge in **PostgreSQL query optimisation** and **real-time architectures**
-- 💬 Ask me about **Node.js**, **React**, **TypeScript**, **PostgreSQL**
 - 📫 Telegram — [t.me/Bahashwan_Mohanad](https://t.me/Bahashwan_Mohanad)
 - 📧 E-mail — **Bahashwan@mail.ru**
+- 💼 LinkedIn — [linkedin.com/in/mohanad-bahashwan](https://www.linkedin.com/in/mohanad-bahashwan/)
 
 ---
 
