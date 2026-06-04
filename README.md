@@ -54,13 +54,3 @@ I design systems end-to-end — from database schema and REST APIs to polished R
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahashwan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahashwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahashwan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
