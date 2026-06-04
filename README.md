@@ -7,6 +7,33 @@
 Full-stack developer building production-grade web apps with a focus on **Node.js**, **React**, and **TypeScript**.  
 I design systems end-to-end — from database schema and REST APIs to polished React UIs.
 
+- 🔭 Currently working on a **Wildberries seller analytics platform** (sales tracking, unit economics, digitization)
+- 🌱 Deepening knowledge in **PostgreSQL query optimisation** and **real-time architectures**
+- 💬 Ask me about **Node.js**, **React**, **TypeScript**, **PostgreSQL**
+- 🚀 Passionate about clean architecture, performance and great developer experience
+- 🛠️ Full deployment cycle — Docker, Nginx, CI/CD, GitHub Actions, VPS
+
+&nbsp;
+
+- 📫 Telegram — [t.me/Bahashwan_Mohanad](https://t.me/Bahashwan_Mohanad)
+- 📧 E-mail — **Bahashwan@mail.ru**
+- 💼 LinkedIn — [linkedin.com/in/mohanad-bahashwan](https://www.linkedin.com/in/mohanad-bahashwan/)
+
+---
+
+### Обо мне
+
+Fullstack-разработчик, создающий production-ready веб-приложения на базе **Node.js**, **React** и **TypeScript**.  
+Проектирую системы «под ключ» — от схемы базы данных и REST API до продуманного React-интерфейса.
+
+- 🔭 Сейчас работаю над **аналитической платформой для продавцов Wildberries** (отслеживание продаж, юнит-экономика, оцифровка)
+- 🌱 Углубляю знания в **оптимизации запросов PostgreSQL** и **real-time архитектурах**
+- 💬 Спрашивайте про **Node.js**, **React**, **TypeScript**, **PostgreSQL**
+- 🚀 Увлечён чистой архитектурой, производительностью и удобством разработки
+- 🛠️ Полный цикл деплоя — Docker, Nginx, CI/CD, GitHub Actions, VPS
+
+&nbsp;
+
 - 📫 Telegram — [t.me/Bahashwan_Mohanad](https://t.me/Bahashwan_Mohanad)
 - 📧 E-mail — **Bahashwan@mail.ru**
 - 💼 LinkedIn — [linkedin.com/in/mohanad-bahashwan](https://www.linkedin.com/in/mohanad-bahashwan/)
@@ -52,3 +79,13 @@ I design systems end-to-end — from database schema and REST APIs to polished R
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>&nbsp;
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bahashwan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahashwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahashwan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
