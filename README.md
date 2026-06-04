@@ -96,14 +96,3 @@ Fullstack-разработчик с **опытом 3+ года** — от мно
   <a href="https://storybook.js.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/storybookjs/storybookjs-icon.svg" alt="storybook" width="40" height="40"/></a>&nbsp;
   <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>&nbsp;
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahashwan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahashwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahashwan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
