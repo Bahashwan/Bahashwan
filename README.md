@@ -1,7 +1,5 @@
 <h1 align="center">Hello There! I'm Mohanad Bahashwan 👋</h1>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" align="right" width="420" />
-
 ### About Me
 
 <a href="https://ba-tech.ru/" target="_blank"><img src="BATECH.svg" alt="Ba-Tech" width="260" style="border-radius:10px"/></a>
